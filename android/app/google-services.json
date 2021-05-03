@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330270832294",
+    "project_id": "pushnotificationflutter-886a8",
+    "storage_bucket": "pushnotificationflutter-886a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330270832294:android:e2fd1f86124aed26efa667",
+        "android_client_info": {
+          "package_name": "com.longkhoa.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330270832294-hgv3n1v1o9i31e0lnseknlojc23351d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbCzRv2nUOM89uBr1BcCU71Gmceq12pGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330270832294-hgv3n1v1o9i31e0lnseknlojc23351d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
